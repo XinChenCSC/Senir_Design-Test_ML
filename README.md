@@ -1,6 +1,6 @@
 # Senir_Design
-Analysis NYC data from 2009 to 2019
-
+Analysis the data of 59 Community District in NYC from 2009 to 2019
+data: Unemployment Rate, Poverty, Employment Population, Uninsured, Family Income, and Educational Attainment
 # Run project
 download or clone the project to local device
 
