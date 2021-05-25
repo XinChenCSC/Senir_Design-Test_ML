@@ -22,3 +22,11 @@ run main.ipynb
 
 # End the program
 enter deactivate after you close the project
+
+### Acknowledgments
+
+* Authors
+  * Ian S. McBride
+  * Lifu Tao
+  * Xin Chen
+* Mentor: Ronak Etemadpour
