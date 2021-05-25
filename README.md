@@ -2,7 +2,6 @@
 Analysis the data of 59 Community District in NYC from 2009 to 2019. Data: Unemployment Rate, Poverty, Employment Population, Uninsured, Family Income, and Educational Attainment
 
 # Create virual environment(skip this part if you don't have virtualenv)
-# Create virtual environment 
 virtualenv .env 
 
 # Active the virtual environment 
